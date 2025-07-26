@@ -10,7 +10,7 @@
             <div class="columns is-centered mt-4">
                 <div class="column is-two-thirds">
                     <div class="content ">
-                    <p><strong><span>Presentes Ganhos:</span></strong></p>
+                    <p><strong><h4>Quer nos presentear mas ficou na dúvida se já temos o item? Veja na lista abaixo o que já temos:</h4></strong></p>
                     <ul>
                         <li><span class="icon has-text-success"><i class="fas fa-check-circle"></i></span> Liquidificador</li>
                         <li><span class="icon has-text-success"><i class="fas fa-check-circle"></i></span> Máquina de Lavar</li>

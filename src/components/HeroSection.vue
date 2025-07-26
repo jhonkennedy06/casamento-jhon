@@ -21,7 +21,7 @@
                             <strong>Local:</strong> Igreja Matriz São Vicente Ferrer, Formiga/MG
                         </p>
                         <a
-                        href="https://maps.app.goo.gl/B9X4z1Vd7Q9XJ6vY6"
+                        href="https://maps.app.goo.gl/MQacj4cF1R1NCuXy9"
                         target="_blank"
                         class="button is-primary is-rounded mt-4"
                         >
