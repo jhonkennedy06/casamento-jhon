@@ -14,8 +14,8 @@
                     <ul>
                         <li><span class="icon has-text-success"><i class="fas fa-check-circle"></i></span> Liquidificador</li>
                         <li><span class="icon has-text-success"><i class="fas fa-check-circle"></i></span> Máquina de Lavar</li>
-                        <li><span class="icon has-text-success"><i class="fas fa-check-circle"></i></span> Micro-ondas</li>
-                        <li><span class="icon has-text-success"><i class="fas fa-check-circle"></i></span> Airfryer</li>
+                        <li><span class="icon has-text-success"><i class="fas fa-check-circle"></i></span> Microondas</li>
+                        <li><span class="icon has-text-success"><i class="fas fa-check-circle"></i></span> Air Fryer</li>
                     </ul>
                     </div>
                 </div>
