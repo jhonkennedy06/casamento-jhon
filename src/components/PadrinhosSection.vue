@@ -69,7 +69,7 @@ export default defineComponent({
     const nomes: string[] = [
       'Elenice', 'Cristiano', 'Paulina', 'Carlo', 'Helena', 'Tiãozinho',
       'Terezinha', 'Diego', 'Jheneffer', 'Dieneson', 'Edivan', 'Waniely',
-      'Ariane', 'César', 'Luiz', 'Glenda', 'Érika', 'Talisson',
+      'Ariane', 'César', 'Luiz', 'Glenda', 'Érika', 'Thalisson',
       'Jennifer', 'Giovanne', 'Thales', 'Alexandre', 'Thalise',
       'Quinzinho', 'Júnior', 'Ariele', 'Jhonathan',
     ];

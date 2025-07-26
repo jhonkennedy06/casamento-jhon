@@ -22,7 +22,7 @@
             </div>
 
             <div class="has-text-centered mt-5">
-                <a href="https://www.finalfeliz.de/dayanne-jhon-kennedy"  target="_blank" class="button is-primary is-large is-rounded">
+                <a href="https://www.finalfeliz.de/dayanne-jhon-kennedy"  target="_blank" class="button is-primary is-rounded">
                     <span class="icon"><i class="fas fa-gift"></i></span>
                     <span>Acessar Lista Online</span>
                 </a>
@@ -54,5 +54,12 @@ export default defineComponent({ name: 'PresentesSection' });
 }
 .content li .icon {
     margin-right: 10px;
+}
+@media screen and (min-width: 769px) {
+    .button.is-primary {
+    /* A classe 'is-large' do Bulma basicamente aumenta o tamanho da fonte.
+        Estamos fazendo a mesma coisa, mas apenas para telas grandes. */
+    font-size: 1.5rem;
+    }
 }
 </style>
