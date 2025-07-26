@@ -41,6 +41,6 @@ export default defineComponent({ name: 'HistoriaSection' });
 }
 
 .content p {
-  color: var(--text-color);
+    color: rgba(5, 41, 0, 0.95);
 }
 </style>

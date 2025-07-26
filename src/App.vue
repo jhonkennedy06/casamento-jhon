@@ -30,11 +30,11 @@
 
 <script lang="ts">
 import { defineComponent, ref, onMounted, onUnmounted } from 'vue';
-import TheNavbar from './components/TheNavbar.vue';
-import HeroSection from './components/HeroSection.vue';
-import PadrinhosSection from './components/PadrinhosSection.vue';
-import HistoriaSection from './components/HistoriaSection.vue';
-import PresentesSection from './components/PresentesSection.vue';
+import TheNavbar from '@/components/TheNavbar.vue';
+import HeroSection from '@/components/HeroSection.vue';
+import PadrinhosSection from '@/components/PadrinhosSection.vue';
+import HistoriaSection from '@/components/HistoriaSection.vue';
+import PresentesSection from '@/components/PresentesSection.vue';
 
 export default defineComponent({
   name: 'App',
