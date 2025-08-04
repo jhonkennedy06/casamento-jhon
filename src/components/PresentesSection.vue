@@ -16,6 +16,9 @@
                         <li><span class="icon has-text-success"><i class="fas fa-check-circle"></i></span> Máquina de Lavar</li>
                         <li><span class="icon has-text-success"><i class="fas fa-check-circle"></i></span> Microondas</li>
                         <li><span class="icon has-text-success"><i class="fas fa-check-circle"></i></span> Air Fryer</li>
+                        <li><span class="icon has-text-success"><i class="fas fa-check-circle"></i></span> Panela de Pressão </li>
+                        <li><span class="icon has-text-success"><i class="fas fa-check-circle"></i></span> Ferro de Passar</li>
+                        <li><span class="icon has-text-success"><i class="fas fa-check-circle"></i></span> Forno Elétrico</li>
                     </ul>
                     </div>
                 </div>
