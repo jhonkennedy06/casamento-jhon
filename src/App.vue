@@ -63,6 +63,7 @@ export default defineComponent({
       });
     };
     onMounted(() => {
+      document.title = 'Jhon & Dayanne❤️';
       window.addEventListener('scroll', handleScroll);
     });
     onUnmounted(() => {
